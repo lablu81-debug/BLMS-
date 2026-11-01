@@ -64,7 +64,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
         { id: 'master_data', label: 'Master Data', icon: Database },
         { id: 'feedback', label: 'Feedback', icon: MessageSquare, badgeCount: feedbackBadgeCount },
         { id: 'renewal_pay', label: 'Renewal Payment', icon: Wallet },
-        { id: 'kpi', label: 'Operator/Contributor and Viewer KPI', icon: Target },
+        { id: 'kpi', label: 'KPI', icon: Target },
         { id: 'notilog', label: 'Notification Log', icon: Bell }
       ]
     },

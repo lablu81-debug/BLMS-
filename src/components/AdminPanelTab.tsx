@@ -49,7 +49,7 @@ const ALL_MENU_ITEMS = [
   { id: 'master_data', label: 'Master Data' },
   { id: 'feedback', label: 'Feedback' },
   { id: 'renewal_pay', label: 'Renewal Payment' },
-  { id: 'kpi', label: 'Operator/Contributor and Viewer KPI' },
+  { id: 'kpi', label: 'KPI' },
   { id: 'notilog', label: 'Notification Log' },
   { id: 'payment', label: 'Payment' },
   { id: 'review', label: 'Review' },
