@@ -1,0 +1,6 @@
+{
+  "name": "Bitopi Group - Business Licenses Monitoring System (BLMS)",
+  "description": "Enterprise daily business license monitoring, compliance tracking, expiry alerts, and reminder notification system for Bitopi Group.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
